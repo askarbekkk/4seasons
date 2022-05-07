@@ -11,7 +11,6 @@ const About = () => {
                 style={{
                     color: "#FF005C"
                 }}>о нас</h1>
-
             <p className=" p-about my-12 mx-20 text-xl ml-28"
                style={{
                    fontFamily: 'Montserrat'
@@ -37,8 +36,6 @@ const About = () => {
                         color: "#252525"
 
                     }}>Контакты</h1>
-
-
                     <div className="flex my-1  nomera    ">
                         <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"
                              className="mt-1 mx-3">
